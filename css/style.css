@@ -1,0 +1,461 @@
+@font-face
+{
+	font-family: Jura;
+	src: url( '../static/Jura-Light.ttf');
+}
+*{
+    font-family: Jura;
+	box-sizing: border-box;
+}
+.section
+{
+	display: inline-block;
+	float: left;
+}
+.image
+{
+	display: inline-block;
+	float: right;
+}
+.header
+{
+	width: 1245px;
+	height: 745px;
+}
+.text2
+{
+	display: inline-block;
+	color: #006AA7;
+	font-family: Jura;
+	font-style: normal;
+	float: left;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 19px;
+}
+.div
+{
+	width: 326px;
+	height: 19px;
+	float: left;
+}
+.image2
+{
+	display: inline-block;
+	float: right;
+}
+.h1
+{
+	font-family: 'Jura';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 100px;
+	line-height: 118px;
+}
+.h2
+{
+	font-family: 'Jura';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 118px;
+}
+.wrapper
+{
+	width: 486px;
+	height: 468px;
+	display: inline-block;
+	float: left;
+}
+.navigation
+{
+	width:400px ;
+	height: 50px;
+	background: #006AA7;
+	padding: 15px;
+}
+.navtext2
+{
+	margin-left: 50px;
+	margin-top: 100px;
+	text-align: center;
+	color: white;
+	text-decoration:none ;
+}
+.div
+{
+	margin-top: 5px	;
+}
+.h1
+{
+	padding-top: 100px;
+	margin-top:120px;
+	margin-bottom: 0px;
+}
+.h2
+{
+	margin-bottom: px	;
+}
+
+/*блок2*/
+
+.block2 {
+
+	height: 450px;
+	background: lightgrey;
+	clear: both;
+}
+
+.kartochka1
+{
+	width: 235px;
+	height: 225px;
+	background: white;
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	margin-right: 4px;
+}
+.block2
+{
+	margin-top:50px;
+}
+
+.image2
+{
+	float: left;
+}
+.pext
+{
+	display: inline-block;
+	margin-left: 120px;
+}
+.posulka
+{
+	display: inline-block;
+	float: right;
+}
+.h4
+{
+	text-align: center;
+	margin-top: 60px;
+	margin-right: 140px;
+}
+.kartext
+{
+	font-size: 14px;
+}
+.h3
+{
+	text-align: center;
+	font-size: 20px;
+}
+.dd{
+background: blue;
+}
+
+.dd2
+{
+	color: white;
+}
+/*блок3*/
+.block3
+{
+	width: 1240px;
+	height: 310px;
+	margin-left: 100px;
+}
+.bl3
+{
+	font-size: 15px;
+	text-align: center;
+}
+.kozkleft
+{
+	width: 530px;
+	height: 185px;
+	background:blue ;
+	display: inline-block;
+	float: left;
+	margin-right: 15px;
+	padding: 10px;
+}
+.bltext3
+{
+	display: inline-block;
+	float: left;
+	width: 366px;
+	height: 119px;
+}
+.kozak
+{
+	display: inline-block	;
+	float: right;
+}
+.kztext
+{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.ktext
+{
+	font-size: 15x;
+	color: white;
+	text-align: center;
+}
+.cinist
+{
+	width:270px ;
+	heigt: 180px;
+	border: 2px solid black;
+	background: #e0e0e0;
+	border-radius: 10px;
+	display: inline-block;
+	float: left;
+	padding: 5px;
+}
+.cnn
+{
+	font-size: 17px;
+}
+.textcc
+{
+	font-size: 14px;
+}
+.vidvaga
+{
+	width:270px ;
+	heigt: 180px;
+	border: 2px solid black;
+	background: #e0e0e0;
+	border-radius: 10px;
+	display: inline-block;
+	float: left;
+	margin-left: 15px;
+	padding: 5px;
+}
+.kartochka1:hover
+{
+	background: blue;
+}
+*.kartochka1:hover
+{
+	color: white;
+}
+.navigation:hover
+{
+	background: yellow;
+}
+/*блок4*/
+.bltext4
+{
+	display: inline-block;
+	float: left;
+	width: 600px;
+}
+.mria
+{
+	display: inline-block;
+	float: right;
+}
+.contmria
+{
+	height:500px ;
+	background: gold;
+}
+.mriatext
+{
+	font-size: 23px;
+	text-align: center;
+}
+.mrnavtext
+{
+	text-decoration: none;
+	color: black;
+	margin-left: 15px;
+}
+.mrnav
+{
+	width: 200px;
+	height: 50px;
+	border:1px solid black ;
+	padding: 15px;
+	border-radius: 10px;
+	margin-left: 30px;
+}
+/*блок5*/
+.karbl5
+{
+	width: 260px;
+	height: 150px;
+	border-radius: 10px;
+	border: 1px solid grey;
+	display: inline-block;
+	float: left;
+	margin-left: 40px;
+	margin-right: 25px;
+}
+.container
+{
+	width: 1125px;
+	margin-left: 250px;
+
+}
+.textbl5
+{
+font-size: 14px;
+
+}
+.h3textbl5
+{
+	text-align: center;
+}
+.Vtextbl5
+{
+	text-align: center;
+}
+/*блок6*/
+.imagebl6
+{
+	margin-right: 10px;
+}	
+.kartunu
+{
+	margin-left: 100px;
+}
+/*блок7*/
+.zeltext
+{
+	color: white;
+	font-size: 30px;
+}
+.zelenski
+{
+	width:800px ;
+	height: 250px;
+	background: #006AA7;
+	margin-left: 200px;
+}
+.tt{
+	display: inline-block;
+	float: left;
+	width: 500px;
+	margin-left: 30px;
+}
+.zelensky
+{
+	display: inline-block;
+	float: right;
+	margin: 20px;
+}
+/*блок8*/
+.bloku8
+{
+width: 350px;
+height: 120px;
+display: inline-block;
+background: #ffb900;
+margin-top: 10px;
+border-radius: 10px;
+}
+.h1bl8
+{
+	font-size: 24px;
+	text-align: center;
+}
+.h2bl8
+{
+	font-size: 16px;
+	text-align: center;
+}
+.k1
+{
+	margin-left: 60px;
+}
+.imagebl8
+{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	float: left;
+	margin: 10px;
+}
+.bb{
+width: 218px;
+height: 51px;
+float: right;
+
+}
+.textbl8
+{
+	font-size: 15px;
+	margin-right: 10px;
+}
+/*блок9*/
+.bbll
+{
+	width: 340px;
+	height: 230px;
+	display: inline-block;
+	margin-left: 27px;
+	float: left;
+	background: white;
+}
+.bl9
+{
+	text-align: center;
+}
+.bbll9
+{
+	width: 520px;
+	height: 200px;
+	display: inline-block;
+	float: left;
+	margin-left: 27px;
+	margin-right: 7px;
+	margin-top: 27px;
+	background: white;
+}
+.block9
+{
+	background: lightgrey;
+	height: 600px;
+}
+.ddd
+{
+	margin-left: 130px;
+}
+.bl10
+{
+	width: 1240px;
+	margin: 0 auto;
+}
+.imagbl3
+{
+	width: 190px;
+	margin-right: 10px;
+}
+.kinec
+{
+	height:100px;
+	background:#006AA7;
+}
+.kntext
+{
+	color:white;
+	font-size: 20px;
+	text-align: center;
+	z-index: 3;
+}
+.kinimg
+{
+	margin-left: 800px;
+	margin-top: 0px;
+	z-index: 2;	
+}
+.logik
+{
+	margin-bottom:0px;
+	margin-top:20px;
+}
